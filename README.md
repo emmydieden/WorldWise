@@ -1,3 +1,3 @@
 # WorldWise
 
-Building this React project to practice Context API, useMemo, Redux, amongst others.
+Building this React project to practice global state management.
