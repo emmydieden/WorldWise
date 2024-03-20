@@ -13,18 +13,6 @@
       "id": "73930385"
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -61,18 +49,6 @@
       }
     },
     {
-      "id": "7b2a",
-      "cityName": "Cieutat",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-03-20T09:20:16.443Z",
-      "notes": "Hey",
-      "position": {
-        "lat": "43.100982876188546",
-        "lng": "0.19775390625000003"
-      }
-    },
-    {
       "id": "d665",
       "cityName": "Havlickuv Brod",
       "country": "Czechia",
@@ -94,6 +70,54 @@
       "position": {
         "lat": "62.22699603631975",
         "lng": "27.333984375000004"
+      }
+    },
+    {
+      "id": "1a2f",
+      "cityName": "Molina de Aragon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-20T13:46:46.275Z",
+      "notes": "Test",
+      "position": {
+        "lat": "40.88029480552824",
+        "lng": "-1.8896484375000002"
+      }
+    },
+    {
+      "id": "044f",
+      "cityName": "Quinto",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-20T13:48:40.727Z",
+      "notes": "test",
+      "position": {
+        "lat": "41.376808565702355",
+        "lng": "-0.46142578125000006"
+      }
+    },
+    {
+      "id": "a791",
+      "cityName": "Alfaro",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-20T13:50:11.428Z",
+      "notes": "Test",
+      "position": {
+        "lat": "42.147114459221015",
+        "lng": "-1.9335937500000002"
+      }
+    },
+    {
+      "id": "4e11",
+      "cityName": "Sosno",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-03-20T13:50:25.964Z",
+      "notes": "Hej",
+      "position": {
+        "lat": "53.330872983017066",
+        "lng": "17.666015625000004"
       }
     }
   ]
